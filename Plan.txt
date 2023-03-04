@@ -1,0 +1,6 @@
+To solve the overfitting:
+1- Change the architecture of the model to use LSTM (Experiment 1)
+2- Change the architecture of the model to use Cov1d (Experiment 2)
+3- Add regularization first type (Experiment3)
+4- Add regularization second type (Experiment4)
+5- Add Dropout (Experiment 5)
